@@ -48,3 +48,18 @@ Disallow: /wp-register.php
 Sitemap: https://urldusitemap.com/
 ```
 
+## Tips pour une bonne utilisation
+
+### Où intégrer ce robots.txt ?
+
+#### Avec Yoast SEO
+
+#### Avec RankMath SEO
+
+![&#xC9;tapes pour modifier le robots.txt avec RankMath SEO](../../../.gitbook/assets/image.png)
+
+1. Entrer dans les réglages généraux
+2. Cliquer sur _Modifier le robots.txt_
+3. Coller le robots.txt optimisé dans l'espace dédié, et y ajouter le bon sitemap.xml
+4. Sauvegarder les modifications
+
