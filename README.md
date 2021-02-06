@@ -1,6 +1,2 @@
 # Initial page
 
-## Test
-
-`Code`
-
