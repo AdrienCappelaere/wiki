@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Accueil du Wiki](README.md)
 
 ## 📙 SEO
 
@@ -11,7 +11,7 @@
 
 ---
 
-* [Onsite SEO](untitled.md)
+* [Onsite SEO](onsite-seo.md)
 
 ## 📖 Books notes
 
