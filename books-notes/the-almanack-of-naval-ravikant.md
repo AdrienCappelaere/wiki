@@ -1,5 +1,5 @@
 ---
-description: 'Notes sur la lecture du livre, lu en février 2020'
+description: Lecture en février 2020
 ---
 
 # The Almanack of Naval Ravikant
