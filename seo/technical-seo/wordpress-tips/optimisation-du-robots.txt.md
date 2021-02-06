@@ -54,9 +54,18 @@ Sitemap: https://urldusitemap.com/
 
 #### Avec Yoast SEO
 
+![](../../../.gitbook/assets/image%20%281%29.png)
+
+![](../../../.gitbook/assets/image%20%283%29.png)
+
+1. Cliquer sur _Outils_ dans l'onglet _SEO_
+2. Cliquer sur _Éditeur de fichiers_
+3. Coller le robots.txt optimisé dans l'espace dédié, et y ajouter le bon sitemap.xml
+4. Enregistrer les changements de robots.txt
+
 #### Avec RankMath SEO
 
-![&#xC9;tapes pour modifier le robots.txt avec RankMath SEO](../../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 
 1. Entrer dans les réglages généraux
 2. Cliquer sur _Modifier le robots.txt_
