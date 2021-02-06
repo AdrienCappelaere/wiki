@@ -8,10 +8,7 @@
   * [WordPress tips](seo/technical-seo/wordpress-tips/README.md)
     * [Optimisation du robots.txt](seo/technical-seo/wordpress-tips/optimisation-du-robots.txt.md)
   * [Données structurées](seo/technical-seo/donnees-structurees.md)
-
----
-
-* [Onsite SEO](onsite-seo.md)
+* [Onsite SEO](seo/onsite-seo.md)
 
 ## 📖 Books notes
 
