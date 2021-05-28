@@ -8,6 +8,7 @@
 
 ## 📙 SEO
 
+* [SEO Tools](seo/seo-tools.md)
 * [Configuration SEO](seo/configuration-seo/README.md)
   * [Outils à configurer](seo/configuration-seo/outils-a-configurer/README.md)
     * [Ahrefs](seo/configuration-seo/outils-a-configurer/ahrefs.md)
