@@ -20,6 +20,7 @@
   * [Données structurées](seo/technical-seo/donnees-structurees.md)
 * [Onsite SEO](seo/onsite-seo/README.md)
   * [Détection des opportunités](seo/onsite-seo/detection-des-opportunites.md)
+  * [CHECKLIST ONSITE](seo/onsite-seo/checklist-onsite.md)
 * [Core Web Vitals](seo/core-web-vitals/README.md)
   * [Auditer les Core Web Vitals](seo/core-web-vitals/auditer-les-core-web-vitals.md)
 
