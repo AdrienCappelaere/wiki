@@ -2,13 +2,9 @@
 
 * [Accueil du Wiki](README.md)
 
-## 📗 UX & CRO
-
-* [Untitled](ux-and-cro/untitled.md)
-
 ## 📘 Gen AI
 
-* [Page 2](gen-ai/page-2.md)
+* [Prompting](gen-ai/prompting.md)
 
 ## 📙 SEO
 
@@ -27,6 +23,10 @@
   * [CHECKLIST ONSITE](seo/onsite-seo/checklist-onsite.md)
 * [Core Web Vitals](seo/core-web-vitals/README.md)
   * [Auditer les Core Web Vitals](seo/core-web-vitals/auditer-les-core-web-vitals.md)
+
+## 📗 UX & CRO
+
+* [Untitled](ux-and-cro/untitled.md)
 
 ## 📖 Books notes
 
